@@ -1,5 +1,17 @@
-# Hey there, my name is Akai
-I'm currently working at [Valor Research](https://github.com/valorresearch).
-I primarily focus on backend systems. I know Swift, Java, TypeScript, and Vue.
-
+```javascript
+var akaiOmoi: Human = {
+    name: 'Akai Omoi',
+    pronouns: ['he', 'they'],
+    interests: ['Music', 'AI'],
+    work: {
+        name: 'Valor Research',
+        description: 'Developing Natural Language Processing Solutions',
+        github: '@ValorResearch'
+    },
+    languages: {
+        spoken: ['English', 'Korean'],
+        code: ['Java', 'Swift', 'Python', 'TypeScript', 'JavaScript', 'Vue']
+    }
+}
+```
 <!-- hey there! -->
