@@ -2,7 +2,8 @@
 var akaiOmoi: Human = {
     name: 'Akai Omoi',
     pronouns: ['he', 'they'],
-    interests: ['Music', 'Streaming', 'osu!', 'NLP'],
+    likes: ['Music', 'Streaming', 'osu!', 'NLP', 'Privacy'],
+    dislikes: ['Google XLA', 'Mass Surveillance', 'Python Syntax'],
     work: {
         name: 'Valor Research',
         description: 'Developing Practical Natural Language Processing Solutions',
